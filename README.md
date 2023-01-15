@@ -1,1 +1,1 @@
-# Course_DS
+Домашние работы по курсу Machine Learning.Basic.
